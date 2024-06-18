@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/Repos/TicTacToe/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\TicTacToe.dir\\main.cpp.obj -c D:\\Repos\\TicTacToe\\main.cpp",
+  "file": "D:/Repos/TicTacToe/main.cpp",
+  "output": "CMakeFiles/TicTacToe.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/Repos/TicTacToe/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\TicTacToe.dir\\board.cpp.obj -c D:\\Repos\\TicTacToe\\board.cpp",
+  "file": "D:/Repos/TicTacToe/board.cpp",
+  "output": "CMakeFiles/TicTacToe.dir/board.cpp.obj"
+},
+{
+  "directory": "D:/Repos/TicTacToe/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\TicTacToe.dir\\ai.cpp.obj -c D:\\Repos\\TicTacToe\\ai.cpp",
+  "file": "D:/Repos/TicTacToe/ai.cpp",
+  "output": "CMakeFiles/TicTacToe.dir/ai.cpp.obj"
+}
+]

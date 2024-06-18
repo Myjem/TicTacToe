@@ -1,0 +1,3 @@
+D:/Repos/TicTacToe/build/CMakeFiles/TicTacToe.dir
+D:/Repos/TicTacToe/build/CMakeFiles/edit_cache.dir
+D:/Repos/TicTacToe/build/CMakeFiles/rebuild_cache.dir
